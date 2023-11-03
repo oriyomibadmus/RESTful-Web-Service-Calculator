@@ -1,5 +1,5 @@
 # RESTful-Web-Service-Calculator
-A simple Java RESTful web service calculator performs basic arithmetic operations (addition, subtraction, multiplication, and division) through HTTP requests.
+A simple Java RESTful web service calculator that performs basic arithmetic operations such as addition, subtraction, multiplication, and division through HTTP requests.
 
 ## Features
 Arithmetic Operation Via RESTFul endpoints 
